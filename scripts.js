@@ -1,4 +1,6 @@
+//Set up
 var squaresPerSide = 16;
+drawGrid(squaresPerSide);
 
 function drawGrid(squaresPerSide) {
 
